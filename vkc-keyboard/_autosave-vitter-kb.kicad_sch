@@ -1856,7 +1856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 196.85 38.1 0)
 			(effects
 				(font
@@ -2199,7 +2199,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 171.45 104.14 0)
 			(effects
 				(font
@@ -2266,7 +2266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 95.25 54.61 0)
 			(effects
 				(font
@@ -2333,7 +2333,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 69.85 38.1 0)
 			(effects
 				(font
@@ -2469,7 +2469,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 95.25 71.12 0)
 			(effects
 				(font
@@ -2605,7 +2605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 44.45 54.61 0)
 			(effects
 				(font
@@ -2672,7 +2672,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 69.85 87.63 0)
 			(effects
 				(font
@@ -2739,7 +2739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 196.85 87.63 0)
 			(effects
 				(font
@@ -2806,7 +2806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 171.45 38.1 0)
 			(effects
 				(font
@@ -2873,7 +2873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 120.65 71.12 0)
 			(effects
 				(font
@@ -2940,7 +2940,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 120.65 104.14 0)
 			(effects
 				(font
@@ -3076,7 +3076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 44.45 87.63 0)
 			(effects
 				(font
@@ -3212,7 +3212,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 146.05 104.14 0)
 			(effects
 				(font
@@ -3348,13 +3348,12 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 44.45 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
@@ -3415,7 +3414,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 196.85 54.61 0)
 			(effects
 				(font
@@ -3551,7 +3550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 95.25 38.1 0)
 			(effects
 				(font
@@ -3618,7 +3617,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 44.45 71.12 0)
 			(effects
 				(font
@@ -3892,7 +3891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 120.65 54.61 0)
 			(effects
 				(font
@@ -3959,7 +3958,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 69.85 71.12 0)
 			(effects
 				(font
@@ -4095,7 +4094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 95.25 104.14 0)
 			(effects
 				(font
@@ -4162,7 +4161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 120.65 87.63 0)
 			(effects
 				(font
@@ -4298,7 +4297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 146.05 87.63 0)
 			(effects
 				(font
@@ -4710,7 +4709,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 44.45 104.14 0)
 			(effects
 				(font
@@ -4777,7 +4776,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 171.45 87.63 0)
 			(effects
 				(font
@@ -4982,7 +4981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 69.85 104.14 0)
 			(effects
 				(font
@@ -5187,7 +5186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 196.85 104.14 0)
 			(effects
 				(font
@@ -5323,7 +5322,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 146.05 38.1 0)
 			(effects
 				(font
@@ -5390,7 +5389,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 171.45 71.12 0)
 			(effects
 				(font
@@ -5526,7 +5525,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 69.85 54.61 0)
 			(effects
 				(font
@@ -5800,7 +5799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 120.65 38.1 0)
 			(effects
 				(font
@@ -6005,7 +6004,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 146.05 71.12 0)
 			(effects
 				(font
@@ -6141,7 +6140,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 171.45 54.61 0)
 			(effects
 				(font
@@ -6208,7 +6207,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 146.05 54.61 0)
 			(effects
 				(font
@@ -6344,7 +6343,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 196.85 71.12 0)
 			(effects
 				(font
@@ -6549,7 +6548,7 @@
 				)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+		(property "Footprint" "vitter-kb:kahli-outline"
 			(at 95.25 87.63 0)
 			(effects
 				(font
