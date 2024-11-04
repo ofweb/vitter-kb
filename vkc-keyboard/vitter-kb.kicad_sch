@@ -302,356 +302,398 @@
 		)
 	)
 	(junction
-		(at 125.73 71.12)
+		(at 128.27 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "023d6d51-9f14-43ee-b5a5-0ddf922ad135")
+	)
+	(junction
+		(at 128.27 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "04ebc8ab-5557-42cd-b2b8-ab69f2f1a3a8")
 	)
 	(junction
-		(at 134.62 111.76)
+		(at 137.16 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0666b5c7-5f0a-4a35-95bd-86faf5cdb83d")
 	)
 	(junction
-		(at 125.73 38.1)
+		(at 128.27 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "087a8ffc-72d5-4c4e-9448-bdf374885693")
 	)
 	(junction
-		(at 125.73 54.61)
+		(at 128.27 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0acbc27b-841a-4c5e-b5c9-7c71455cf2eb")
 	)
 	(junction
-		(at 83.82 78.74)
+		(at 86.36 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "11ed8553-b90f-4aff-80b3-f19b79d17b6e")
 	)
 	(junction
-		(at 100.33 87.63)
+		(at 102.87 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1572f22e-ae86-47bd-afa7-83c0971911fb")
 	)
 	(junction
-		(at 49.53 38.1)
+		(at 52.07 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "15fc738a-eb19-435f-bb7e-c6f16a4e3bff")
 	)
 	(junction
-		(at 201.93 71.12)
+		(at 204.47 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "19096d4f-5021-4b8f-87da-cd7a8f43a496")
 	)
 	(junction
-		(at 100.33 38.1)
+		(at 102.87 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b58ba50-3bb6-46a7-b3fa-ddc8fda18110")
 	)
 	(junction
-		(at 49.53 54.61)
+		(at 52.07 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "29139824-d766-48de-adab-d4316c61a03e")
 	)
 	(junction
-		(at 33.02 45.72)
+		(at 35.56 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "31fadc31-ffa5-464c-bc48-4144016aed44")
 	)
 	(junction
-		(at 109.22 95.25)
+		(at 111.76 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "405cc7a2-e585-4e83-8dd2-3bb274d9578b")
 	)
 	(junction
-		(at 33.02 78.74)
+		(at 35.56 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "413fefca-0530-4352-824d-c8a63dfed558")
 	)
 	(junction
-		(at 74.93 54.61)
+		(at 77.47 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4622d5bd-9b89-44b6-9c68-58875279a743")
 	)
 	(junction
-		(at 160.02 111.76)
+		(at 162.56 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "46571e77-e82d-4739-900d-aad426dffd71")
 	)
 	(junction
-		(at 151.13 54.61)
+		(at 153.67 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "465d52c9-3b7b-47ee-95b8-32bc720e2950")
 	)
 	(junction
-		(at 100.33 54.61)
+		(at 102.87 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b1b936c-fe60-4bb5-b6a0-4a5c57d772f8")
 	)
 	(junction
-		(at 58.42 95.25)
+		(at 60.96 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4dc3aba8-0a7f-43fb-ba55-96b36e23fbcf")
 	)
 	(junction
-		(at 134.62 78.74)
+		(at 137.16 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4f72882a-4704-41e0-a20b-e100860d04dd")
 	)
 	(junction
-		(at 83.82 95.25)
+		(at 86.36 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5616fd7f-4764-40a2-ac84-8ed5db5903ea")
 	)
 	(junction
-		(at 176.53 71.12)
+		(at 77.47 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5aedfe42-5b42-4bc5-acf4-02718a2fb69b")
+	)
+	(junction
+		(at 179.07 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "627129af-b9dd-4892-972a-4b99f5af15d1")
 	)
 	(junction
-		(at 109.22 111.76)
+		(at 111.76 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "691c4621-b2e9-4937-8a79-4c20f67d831f")
 	)
 	(junction
-		(at 201.93 38.1)
+		(at 204.47 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a4586c1-14b5-4b03-9379-9ecc9ef9eca6")
 	)
 	(junction
-		(at 201.93 87.63)
+		(at 102.87 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6ff8aaa6-6226-482a-92ac-2d00dde0b1d9")
+	)
+	(junction
+		(at 204.47 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7611b506-90a0-491e-855a-0c15bb9c6555")
 	)
 	(junction
-		(at 109.22 62.23)
+		(at 111.76 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "76f6ba4f-9bef-4337-bca1-e1ef2404cd6a")
 	)
 	(junction
-		(at 151.13 71.12)
+		(at 153.67 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7ac434c1-a9d3-4ea3-a9ae-616374a987f8")
 	)
 	(junction
-		(at 49.53 87.63)
+		(at 52.07 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "805bc09b-d916-43b7-bc78-e88c008e09d4")
 	)
 	(junction
-		(at 125.73 87.63)
+		(at 128.27 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "83086bc0-b933-4169-9687-166ac0b42f77")
 	)
 	(junction
-		(at 160.02 62.23)
+		(at 162.56 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8720c2a8-bf62-4080-bd19-09adf6bbae1a")
 	)
 	(junction
-		(at 33.02 111.76)
+		(at 35.56 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8faa3425-7654-46a9-841b-73ada66ba6f9")
 	)
 	(junction
-		(at 100.33 71.12)
+		(at 60.96 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91ac879c-df4a-43e0-a11c-a91dbf1e8ffa")
+	)
+	(junction
+		(at 102.87 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "94e10e5c-8988-434e-8b50-aa1c31e92f6e")
 	)
 	(junction
-		(at 151.13 38.1)
+		(at 153.67 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "98f3a69a-1534-4fdd-b2b3-9ee37e3872f5")
 	)
 	(junction
-		(at 74.93 71.12)
+		(at 77.47 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "992f0e75-76cd-4432-b11c-8c1ce0ab18dc")
 	)
 	(junction
-		(at 83.82 111.76)
+		(at 86.36 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9b9ff0ff-4a46-4ae4-b594-6256d8f5c441")
 	)
 	(junction
-		(at 134.62 62.23)
+		(at 52.07 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a8afb944-8d0a-4f09-8f50-245e817978cf")
+	)
+	(junction
+		(at 137.16 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b05fa1d6-2709-4f30-ae11-45aa70da692c")
 	)
 	(junction
-		(at 160.02 95.25)
+		(at 162.56 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b59ac5bf-f7ee-4801-9044-78c42b1c57f5")
 	)
 	(junction
-		(at 176.53 87.63)
+		(at 179.07 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b66bb650-7a79-4106-a4d4-771723606627")
 	)
 	(junction
-		(at 58.42 62.23)
+		(at 60.96 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b6f2586a-6015-42b5-89c7-4845f39eba13")
 	)
 	(junction
-		(at 176.53 54.61)
+		(at 179.07 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc6c6674-73eb-4dca-9794-db7d94773bbc")
 	)
 	(junction
-		(at 49.53 71.12)
+		(at 52.07 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd541231-6987-420e-a2c0-c8cd05029207")
 	)
 	(junction
-		(at 160.02 78.74)
+		(at 162.56 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf8a014a-7170-4751-a56d-baf650ad456b")
 	)
 	(junction
-		(at 58.42 78.74)
+		(at 60.96 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c59a2d18-4f80-41f5-b09d-6597f7bc6221")
 	)
 	(junction
-		(at 74.93 87.63)
+		(at 77.47 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cd1293a7-a263-4b45-8aa4-b7350a337e65")
 	)
 	(junction
-		(at 33.02 95.25)
+		(at 35.56 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2082787-3e47-466c-a456-8f337cd0d6ea")
 	)
 	(junction
-		(at 151.13 87.63)
+		(at 153.67 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d212e282-079e-417a-a16b-461309e73c29")
 	)
 	(junction
-		(at 109.22 45.72)
+		(at 111.76 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d90972b9-b5bb-4025-89b3-6b771bbee2af")
 	)
 	(junction
-		(at 83.82 62.23)
+		(at 35.56 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd482e89-2276-4a3f-8c5f-a8d1f508c931")
+	)
+	(junction
+		(at 86.36 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dec3aadb-74e2-4907-a6dd-18d944f013ad")
 	)
 	(junction
-		(at 33.02 62.23)
+		(at 35.56 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e6e69134-b369-4d60-9eb6-04dfb8714466")
 	)
 	(junction
-		(at 58.42 45.72)
+		(at 86.36 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea1e1fb9-f89e-401f-bfd5-c96d62c4e689")
+	)
+	(junction
+		(at 60.96 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ebed4aa2-8027-4579-91e9-68ef6a2a9896")
 	)
 	(junction
-		(at 58.42 111.76)
+		(at 60.96 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ed78ad1f-1841-4d0e-801c-13ad31e6174b")
 	)
 	(junction
-		(at 134.62 45.72)
+		(at 137.16 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "edda22f5-ddd3-4abe-bfc0-ef7115c3ccd7")
 	)
 	(junction
-		(at 201.93 54.61)
+		(at 204.47 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "efe1fbe9-a634-48bd-a862-f66ca2aa9d10")
 	)
 	(junction
-		(at 176.53 38.1)
+		(at 179.07 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f194a2e7-5c74-4caa-8a8b-04acb8d5b023")
 	)
 	(junction
-		(at 134.62 95.25)
+		(at 137.16 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f282a49d-2011-4461-b69b-39d7e44a49e9")
 	)
 	(junction
-		(at 83.82 45.72)
+		(at 86.36 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f473ca70-a727-43a8-8d13-e6e4747ae4e1")
 	)
 	(junction
-		(at 74.93 38.1)
+		(at 77.47 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f50ed672-ecf0-4bec-9285-b4c3fc62d487")
 	)
 	(junction
-		(at 109.22 78.74)
+		(at 111.76 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f7fa6698-472e-44ff-871f-bd11349693ae")
 	)
 	(junction
-		(at 160.02 45.72)
+		(at 162.56 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fde619a0-be0d-461a-98c3-5f5a8be7ad4a")
 	)
 	(wire
 		(pts
-			(xy 83.82 78.74) (xy 109.22 78.74)
+			(xy 86.36 101.6) (xy 111.76 101.6)
 		)
 		(stroke
 			(width 0)
@@ -661,7 +703,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 54.61) (xy 64.77 54.61)
+			(xy 60.96 77.47) (xy 67.31 77.47)
 		)
 		(stroke
 			(width 0)
@@ -671,7 +713,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 87.63) (xy 100.33 104.14)
+			(xy 102.87 110.49) (xy 102.87 127)
 		)
 		(stroke
 			(width 0)
@@ -681,7 +723,27 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 38.1) (xy 90.17 38.1)
+			(xy 35.56 44.45) (xy 41.91 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05f006a6-fffd-4484-8f66-666343c46b94")
+	)
+	(wire
+		(pts
+			(xy 86.36 52.07) (xy 60.96 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "06ae0214-182d-4273-a7fd-dccaeb2a0401")
+	)
+	(wire
+		(pts
+			(xy 86.36 60.96) (xy 92.71 60.96)
 		)
 		(stroke
 			(width 0)
@@ -691,7 +753,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 54.61) (xy 49.53 71.12)
+			(xy 52.07 77.47) (xy 52.07 93.98)
 		)
 		(stroke
 			(width 0)
@@ -701,7 +763,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 95.25) (xy 58.42 95.25)
+			(xy 35.56 118.11) (xy 60.96 118.11)
 		)
 		(stroke
 			(width 0)
@@ -711,7 +773,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 71.12) (xy 176.53 87.63)
+			(xy 179.07 93.98) (xy 179.07 110.49)
 		)
 		(stroke
 			(width 0)
@@ -721,7 +783,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 111.76) (xy 160.02 111.76)
+			(xy 137.16 134.62) (xy 162.56 134.62)
 		)
 		(stroke
 			(width 0)
@@ -731,7 +793,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 54.61) (xy 125.73 71.12)
+			(xy 128.27 77.47) (xy 128.27 93.98)
 		)
 		(stroke
 			(width 0)
@@ -741,7 +803,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 104.14) (xy 140.97 104.14)
+			(xy 137.16 127) (xy 143.51 127)
 		)
 		(stroke
 			(width 0)
@@ -751,7 +813,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 38.1) (xy 140.97 38.1)
+			(xy 137.16 60.96) (xy 143.51 60.96)
 		)
 		(stroke
 			(width 0)
@@ -761,7 +823,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 45.72) (xy 33.02 45.72)
+			(xy 60.96 68.58) (xy 35.56 68.58)
 		)
 		(stroke
 			(width 0)
@@ -771,7 +833,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 87.63) (xy 151.13 104.14)
+			(xy 153.67 110.49) (xy 153.67 127)
 		)
 		(stroke
 			(width 0)
@@ -781,7 +843,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 78.74) (xy 83.82 78.74)
+			(xy 60.96 101.6) (xy 86.36 101.6)
 		)
 		(stroke
 			(width 0)
@@ -791,7 +853,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 87.63) (xy 140.97 87.63)
+			(xy 137.16 110.49) (xy 143.51 110.49)
 		)
 		(stroke
 			(width 0)
@@ -801,7 +863,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 87.63) (xy 64.77 87.63)
+			(xy 60.96 110.49) (xy 67.31 110.49)
 		)
 		(stroke
 			(width 0)
@@ -811,7 +873,17 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 38.1) (xy 201.93 54.61)
+			(xy 25.4 52.07) (xy 35.56 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f7f63ce-21d2-4651-9e66-b7bebc34c252")
+	)
+	(wire
+		(pts
+			(xy 204.47 60.96) (xy 204.47 77.47)
 		)
 		(stroke
 			(width 0)
@@ -821,7 +893,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 87.63) (xy 115.57 87.63)
+			(xy 111.76 110.49) (xy 118.11 110.49)
 		)
 		(stroke
 			(width 0)
@@ -831,7 +903,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 45.72) (xy 83.82 45.72)
+			(xy 111.76 68.58) (xy 86.36 68.58)
 		)
 		(stroke
 			(width 0)
@@ -841,7 +913,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 38.1) (xy 39.37 38.1)
+			(xy 35.56 60.96) (xy 41.91 60.96)
 		)
 		(stroke
 			(width 0)
@@ -851,7 +923,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 87.63) (xy 90.17 87.63)
+			(xy 86.36 110.49) (xy 92.71 110.49)
 		)
 		(stroke
 			(width 0)
@@ -861,7 +933,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 78.74) (xy 58.42 78.74)
+			(xy 35.56 101.6) (xy 60.96 101.6)
 		)
 		(stroke
 			(width 0)
@@ -871,7 +943,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 111.76) (xy 58.42 111.76)
+			(xy 35.56 134.62) (xy 60.96 134.62)
 		)
 		(stroke
 			(width 0)
@@ -881,7 +953,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 71.12) (xy 125.73 87.63)
+			(xy 128.27 93.98) (xy 128.27 110.49)
 		)
 		(stroke
 			(width 0)
@@ -891,7 +963,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 62.23) (xy 33.02 62.23)
+			(xy 25.4 85.09) (xy 35.56 85.09)
 		)
 		(stroke
 			(width 0)
@@ -901,7 +973,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 104.14) (xy 115.57 104.14)
+			(xy 111.76 127) (xy 118.11 127)
 		)
 		(stroke
 			(width 0)
@@ -911,7 +983,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 38.1) (xy 74.93 54.61)
+			(xy 77.47 60.96) (xy 77.47 77.47)
 		)
 		(stroke
 			(width 0)
@@ -921,7 +993,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 71.12) (xy 140.97 71.12)
+			(xy 137.16 93.98) (xy 143.51 93.98)
 		)
 		(stroke
 			(width 0)
@@ -931,7 +1003,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 54.61) (xy 90.17 54.61)
+			(xy 86.36 77.47) (xy 92.71 77.47)
 		)
 		(stroke
 			(width 0)
@@ -941,7 +1013,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 45.72) (xy 109.22 45.72)
+			(xy 137.16 68.58) (xy 111.76 68.58)
 		)
 		(stroke
 			(width 0)
@@ -951,7 +1023,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 25.4) (xy 201.93 38.1)
+			(xy 204.47 48.26) (xy 204.47 60.96)
 		)
 		(stroke
 			(width 0)
@@ -961,7 +1033,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 87.63) (xy 191.77 87.63)
+			(xy 187.96 110.49) (xy 194.31 110.49)
 		)
 		(stroke
 			(width 0)
@@ -971,7 +1043,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 54.61) (xy 201.93 71.12)
+			(xy 204.47 77.47) (xy 204.47 93.98)
 		)
 		(stroke
 			(width 0)
@@ -981,7 +1053,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 54.61) (xy 191.77 54.61)
+			(xy 187.96 77.47) (xy 194.31 77.47)
 		)
 		(stroke
 			(width 0)
@@ -991,7 +1063,17 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 25.4) (xy 74.93 38.1)
+			(xy 60.96 44.45) (xy 67.31 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "593c870f-86d3-46dc-b26e-4f7371923ccc")
+	)
+	(wire
+		(pts
+			(xy 77.47 25.4) (xy 77.47 44.45)
 		)
 		(stroke
 			(width 0)
@@ -1001,7 +1083,17 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 54.61) (xy 176.53 71.12)
+			(xy 52.07 44.45) (xy 52.07 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61819de5-7a2a-4a32-a7b0-4f6dab6cda6f")
+	)
+	(wire
+		(pts
+			(xy 179.07 77.47) (xy 179.07 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1011,7 +1103,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 104.14) (xy 166.37 104.14)
+			(xy 162.56 127) (xy 168.91 127)
 		)
 		(stroke
 			(width 0)
@@ -1021,7 +1113,17 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 38.1) (xy 100.33 54.61)
+			(xy 111.76 44.45) (xy 118.11 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68cf1584-56bf-48ea-9dd7-ccad45456364")
+	)
+	(wire
+		(pts
+			(xy 102.87 60.96) (xy 102.87 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1031,7 +1133,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 71.12) (xy 191.77 71.12)
+			(xy 187.96 93.98) (xy 194.31 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1041,7 +1143,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 54.61) (xy 74.93 71.12)
+			(xy 77.47 77.47) (xy 77.47 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1051,7 +1153,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 95.25) (xy 109.22 95.25)
+			(xy 86.36 118.11) (xy 111.76 118.11)
 		)
 		(stroke
 			(width 0)
@@ -1061,7 +1163,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 54.61) (xy 166.37 54.61)
+			(xy 162.56 77.47) (xy 168.91 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1071,7 +1173,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 54.61) (xy 100.33 71.12)
+			(xy 102.87 77.47) (xy 102.87 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1081,7 +1183,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 38.1) (xy 125.73 54.61)
+			(xy 128.27 60.96) (xy 128.27 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1091,7 +1193,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 54.61) (xy 140.97 54.61)
+			(xy 137.16 77.47) (xy 143.51 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1101,7 +1203,17 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 111.76) (xy 33.02 111.76)
+			(xy 128.27 44.45) (xy 128.27 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76baa63c-4022-4e31-b266-44dc648248c3")
+	)
+	(wire
+		(pts
+			(xy 25.4 134.62) (xy 35.56 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1111,7 +1223,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 71.12) (xy 201.93 87.63)
+			(xy 204.47 93.98) (xy 204.47 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1121,7 +1233,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 62.23) (xy 185.42 62.23)
+			(xy 162.56 85.09) (xy 187.96 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1131,7 +1243,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 87.63) (xy 166.37 87.63)
+			(xy 162.56 110.49) (xy 168.91 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1141,7 +1253,17 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 87.63) (xy 49.53 104.14)
+			(xy 102.87 44.45) (xy 102.87 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80b6bfcf-93ab-4a38-947b-a7304308c29e")
+	)
+	(wire
+		(pts
+			(xy 52.07 110.49) (xy 52.07 127)
 		)
 		(stroke
 			(width 0)
@@ -1151,7 +1273,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 87.63) (xy 125.73 104.14)
+			(xy 128.27 110.49) (xy 128.27 127)
 		)
 		(stroke
 			(width 0)
@@ -1161,7 +1283,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 71.12) (xy 39.37 71.12)
+			(xy 35.56 93.98) (xy 41.91 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1171,7 +1293,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 25.4) (xy 49.53 38.1)
+			(xy 52.07 25.4) (xy 52.07 44.45)
 		)
 		(stroke
 			(width 0)
@@ -1181,7 +1303,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 62.23) (xy 134.62 62.23)
+			(xy 111.76 85.09) (xy 137.16 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1191,7 +1313,17 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 78.74) (xy 160.02 78.74)
+			(xy 60.96 52.07) (xy 35.56 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b65f711-f8f9-4e11-8b15-e50f2ecf6806")
+	)
+	(wire
+		(pts
+			(xy 137.16 101.6) (xy 162.56 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1201,7 +1333,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 25.4) (xy 176.53 38.1)
+			(xy 179.07 48.26) (xy 179.07 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1211,7 +1343,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 38.1) (xy 115.57 38.1)
+			(xy 111.76 60.96) (xy 118.11 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1221,7 +1353,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 71.12) (xy 115.57 71.12)
+			(xy 111.76 93.98) (xy 118.11 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1231,7 +1363,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 71.12) (xy 49.53 87.63)
+			(xy 52.07 93.98) (xy 52.07 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1241,7 +1373,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 87.63) (xy 176.53 104.14)
+			(xy 179.07 110.49) (xy 179.07 127)
 		)
 		(stroke
 			(width 0)
@@ -1251,7 +1383,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 104.14) (xy 90.17 104.14)
+			(xy 86.36 127) (xy 92.71 127)
 		)
 		(stroke
 			(width 0)
@@ -1261,7 +1393,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 38.1) (xy 185.42 38.1)
+			(xy 194.31 60.96) (xy 187.96 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1271,7 +1403,17 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 111.76) (xy 134.62 111.76)
+			(xy 77.47 44.45) (xy 77.47 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f02de4d-2f7b-439c-91e9-77b97f736b47")
+	)
+	(wire
+		(pts
+			(xy 111.76 134.62) (xy 137.16 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1281,7 +1423,17 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 62.23) (xy 109.22 62.23)
+			(xy 86.36 44.45) (xy 92.71 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a26aee82-53cd-4123-b8f7-b48f744ddd22")
+	)
+	(wire
+		(pts
+			(xy 86.36 85.09) (xy 111.76 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1291,7 +1443,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 111.76) (xy 185.42 111.76)
+			(xy 162.56 134.62) (xy 187.96 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1301,7 +1453,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 62.23) (xy 58.42 62.23)
+			(xy 35.56 85.09) (xy 60.96 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1311,7 +1463,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 71.12) (xy 166.37 71.12)
+			(xy 162.56 93.98) (xy 168.91 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1321,7 +1473,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 78.74) (xy 134.62 78.74)
+			(xy 111.76 101.6) (xy 137.16 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1331,7 +1483,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 95.25) (xy 134.62 95.25)
+			(xy 111.76 118.11) (xy 137.16 118.11)
 		)
 		(stroke
 			(width 0)
@@ -1341,7 +1493,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 78.74) (xy 185.42 78.74)
+			(xy 162.56 101.6) (xy 187.96 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1351,7 +1503,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 104.14) (xy 64.77 104.14)
+			(xy 60.96 127) (xy 67.31 127)
 		)
 		(stroke
 			(width 0)
@@ -1361,7 +1513,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 45.72) (xy 134.62 45.72)
+			(xy 162.56 68.58) (xy 137.16 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1371,7 +1523,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 45.72) (xy 33.02 45.72)
+			(xy 25.4 68.58) (xy 35.56 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1381,7 +1533,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 54.61) (xy 39.37 54.61)
+			(xy 35.56 77.47) (xy 41.91 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1391,7 +1543,17 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 54.61) (xy 151.13 71.12)
+			(xy 86.36 52.07) (xy 111.76 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3e9c160-5f58-488b-b427-6fc24e2d3f43")
+	)
+	(wire
+		(pts
+			(xy 153.67 77.47) (xy 153.67 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1401,7 +1563,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 25.4) (xy 125.73 38.1)
+			(xy 128.27 25.4) (xy 128.27 44.45)
 		)
 		(stroke
 			(width 0)
@@ -1411,7 +1573,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 62.23) (xy 83.82 62.23)
+			(xy 60.96 85.09) (xy 86.36 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1421,7 +1583,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 38.1) (xy 49.53 54.61)
+			(xy 52.07 60.96) (xy 52.07 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1431,7 +1593,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 71.12) (xy 64.77 71.12)
+			(xy 60.96 93.98) (xy 67.31 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1441,7 +1603,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 25.4) (xy 151.13 38.1)
+			(xy 153.67 48.26) (xy 153.67 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1451,7 +1613,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 87.63) (xy 39.37 87.63)
+			(xy 35.56 110.49) (xy 41.91 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1461,7 +1623,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 45.72) (xy 58.42 45.72)
+			(xy 86.36 68.58) (xy 60.96 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1471,7 +1633,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 62.23) (xy 160.02 62.23)
+			(xy 137.16 85.09) (xy 162.56 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1481,7 +1643,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 54.61) (xy 115.57 54.61)
+			(xy 111.76 77.47) (xy 118.11 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1491,7 +1653,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 38.1) (xy 64.77 38.1)
+			(xy 60.96 60.96) (xy 67.31 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1501,7 +1663,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 71.12) (xy 151.13 87.63)
+			(xy 153.67 93.98) (xy 153.67 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1511,7 +1673,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 71.12) (xy 90.17 71.12)
+			(xy 86.36 93.98) (xy 92.71 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1521,7 +1683,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 38.1) (xy 151.13 54.61)
+			(xy 153.67 60.96) (xy 153.67 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1531,7 +1693,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 111.76) (xy 109.22 111.76)
+			(xy 86.36 134.62) (xy 111.76 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1541,7 +1703,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 95.25) (xy 185.42 95.25)
+			(xy 162.56 118.11) (xy 187.96 118.11)
 		)
 		(stroke
 			(width 0)
@@ -1551,7 +1713,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 38.1) (xy 166.37 38.1)
+			(xy 162.56 60.96) (xy 168.91 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1561,7 +1723,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 104.14) (xy 39.37 104.14)
+			(xy 35.56 127) (xy 41.91 127)
 		)
 		(stroke
 			(width 0)
@@ -1571,7 +1733,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 45.72) (xy 160.02 45.72)
+			(xy 187.96 68.58) (xy 162.56 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1581,7 +1743,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 104.14) (xy 191.77 104.14)
+			(xy 187.96 127) (xy 194.31 127)
 		)
 		(stroke
 			(width 0)
@@ -1591,7 +1753,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 25.4) (xy 100.33 38.1)
+			(xy 102.87 25.4) (xy 102.87 44.45)
 		)
 		(stroke
 			(width 0)
@@ -1601,7 +1763,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 95.25) (xy 83.82 95.25)
+			(xy 60.96 118.11) (xy 86.36 118.11)
 		)
 		(stroke
 			(width 0)
@@ -1611,7 +1773,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 95.25) (xy 33.02 95.25)
+			(xy 25.4 118.11) (xy 35.56 118.11)
 		)
 		(stroke
 			(width 0)
@@ -1621,7 +1783,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 95.25) (xy 160.02 95.25)
+			(xy 137.16 118.11) (xy 162.56 118.11)
 		)
 		(stroke
 			(width 0)
@@ -1631,7 +1793,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 87.63) (xy 74.93 104.14)
+			(xy 77.47 110.49) (xy 77.47 127)
 		)
 		(stroke
 			(width 0)
@@ -1641,7 +1803,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 111.76) (xy 83.82 111.76)
+			(xy 60.96 134.62) (xy 86.36 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1651,7 +1813,7 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 78.74) (xy 33.02 78.74)
+			(xy 25.4 101.6) (xy 35.56 101.6)
 		)
 		(stroke
 			(width 0)
@@ -1661,7 +1823,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 38.1) (xy 176.53 54.61)
+			(xy 179.07 60.96) (xy 179.07 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1671,7 +1833,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 71.12) (xy 74.93 87.63)
+			(xy 77.47 93.98) (xy 77.47 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1681,7 +1843,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 87.63) (xy 201.93 104.14)
+			(xy 204.47 110.49) (xy 204.47 127)
 		)
 		(stroke
 			(width 0)
@@ -1691,7 +1853,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 71.12) (xy 100.33 87.63)
+			(xy 102.87 93.98) (xy 102.87 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1700,7 +1862,7 @@
 		(uuid "feada83e-5ed8-49e5-9b2e-0956ce984440")
 	)
 	(label "col2"
-		(at 74.93 25.4 270)
+		(at 77.47 25.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1711,7 +1873,7 @@
 		(uuid "1ae70285-0a15-4a60-a7b7-2dd4284b43b0")
 	)
 	(label "row3"
-		(at 22.86 78.74 0)
+		(at 25.4 101.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1722,7 +1884,7 @@
 		(uuid "309c56c9-af89-434f-b7e4-db2049b17699")
 	)
 	(label "row4"
-		(at 22.86 95.25 0)
+		(at 25.4 118.11 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1733,7 +1895,7 @@
 		(uuid "34aa894f-410e-4a1f-b701-2ea50bd06ced")
 	)
 	(label "row1"
-		(at 22.86 45.72 0)
+		(at 25.4 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1744,7 +1906,7 @@
 		(uuid "3dadd0ce-1738-4917-aa3d-3d2b8dd7dcda")
 	)
 	(label "col3"
-		(at 100.33 25.4 270)
+		(at 102.87 25.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1755,7 +1917,7 @@
 		(uuid "44d3bce2-4ee7-4f32-a164-a31ed24ccffa")
 	)
 	(label "col6"
-		(at 176.53 25.4 270)
+		(at 179.07 48.26 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1766,7 +1928,7 @@
 		(uuid "475b5477-cb0c-443b-9758-4c27f3d1a5fb")
 	)
 	(label "col1"
-		(at 49.53 25.4 270)
+		(at 52.07 25.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1777,7 +1939,7 @@
 		(uuid "5b4206ee-5794-46d5-90a5-4058964cb536")
 	)
 	(label "row2"
-		(at 22.86 62.23 0)
+		(at 25.4 85.09 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1787,8 +1949,19 @@
 		)
 		(uuid "6ea2c0f0-9b49-4f92-8e44-c80f82f26f55")
 	)
+	(label "row0"
+		(at 25.4 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "870b5ea0-8597-4665-8b3c-12707d67c20b")
+	)
 	(label "col7"
-		(at 201.93 25.4 270)
+		(at 204.47 48.26 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1799,7 +1972,7 @@
 		(uuid "a229e555-f990-42d1-94b0-8053487a788c")
 	)
 	(label "col4"
-		(at 125.73 25.4 270)
+		(at 128.27 25.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1810,7 +1983,7 @@
 		(uuid "b959c167-20e8-4f7e-aa88-e1b606389730")
 	)
 	(label "row5"
-		(at 22.86 111.76 0)
+		(at 25.4 134.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1821,7 +1994,7 @@
 		(uuid "bec088a8-05d2-45a4-bbf8-bf4105e45918")
 	)
 	(label "col5"
-		(at 151.13 25.4 270)
+		(at 153.67 48.26 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1833,7 +2006,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 196.85 38.1 0)
+		(at 199.39 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1841,7 +2014,7 @@
 		(dnp no)
 		(uuid "00172ed7-884a-4bc2-bf29-965b884c6b3f")
 		(property "Reference" "SW7"
-			(at 196.85 31.75 0)
+			(at 199.39 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1849,7 +2022,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 196.85 34.29 0)
+			(at 199.39 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1857,7 +2030,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 196.85 38.1 0)
+			(at 199.39 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1866,7 +2039,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 38.1 0)
+			(at 199.39 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1875,7 +2048,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.85 38.1 0)
+			(at 199.39 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1900,7 +2073,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 134.62 58.42 90)
+		(at 137.16 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1908,7 +2081,7 @@
 		(dnp no)
 		(uuid "0089faf2-feb3-408b-8de6-cd6db0fa1ee2")
 		(property "Reference" "D12"
-			(at 137.16 57.1499 90)
+			(at 139.7 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1917,7 +2090,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 137.16 59.6899 90)
+			(at 139.7 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1926,7 +2099,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 105.41 55.88 0)
+			(at 107.95 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1935,7 +2108,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 134.62 58.42 0)
+			(at 137.16 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1944,7 +2117,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 134.62 58.42 0)
+			(at 137.16 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1969,7 +2142,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 134.62 107.95 90)
+		(at 137.16 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1977,7 +2150,7 @@
 		(dnp no)
 		(uuid "012e5603-29a0-4286-95fc-661427a8bdda")
 		(property "Reference" "D33"
-			(at 137.16 106.6799 90)
+			(at 139.7 129.5399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1986,7 +2159,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 137.16 109.2199 90)
+			(at 139.7 132.0799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1995,7 +2168,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 105.41 105.41 0)
+			(at 107.95 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2004,7 +2177,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 134.62 107.95 0)
+			(at 137.16 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2013,7 +2186,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 134.62 107.95 0)
+			(at 137.16 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2038,7 +2211,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 109.22 58.42 90)
+		(at 111.76 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2046,7 +2219,7 @@
 		(dnp no)
 		(uuid "02daf816-16ae-48d5-a040-ace605a0e63c")
 		(property "Reference" "D11"
-			(at 111.76 57.1499 90)
+			(at 114.3 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2055,7 +2228,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 111.76 59.6899 90)
+			(at 114.3 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2064,7 +2237,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 80.01 55.88 0)
+			(at 82.55 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2073,7 +2246,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 109.22 58.42 0)
+			(at 111.76 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2082,7 +2255,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.22 58.42 0)
+			(at 111.76 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2107,7 +2280,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 33.02 91.44 90)
+		(at 35.56 114.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2115,7 +2288,7 @@
 		(dnp no)
 		(uuid "0764fc76-6e37-4260-9b59-accd4b4c74b7")
 		(property "Reference" "D22"
-			(at 35.56 90.1699 90)
+			(at 38.1 113.0299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2124,7 +2297,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 35.56 92.7099 90)
+			(at 38.1 115.5699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2133,7 +2306,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 3.81 88.9 0)
+			(at 6.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2142,7 +2315,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 33.02 91.44 0)
+			(at 35.56 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2151,7 +2324,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 33.02 91.44 0)
+			(at 35.56 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2176,7 +2349,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 171.45 104.14 0)
+		(at 173.99 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2184,7 +2357,7 @@
 		(dnp no)
 		(uuid "12a8a787-689d-4408-a3a7-0ab3f55dd645")
 		(property "Reference" "SW34"
-			(at 171.45 97.79 0)
+			(at 173.99 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2192,7 +2365,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 171.45 100.33 0)
+			(at 173.99 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2200,7 +2373,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 171.45 104.14 0)
+			(at 173.99 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2209,7 +2382,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 104.14 0)
+			(at 173.99 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2218,7 +2391,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 104.14 0)
+			(at 173.99 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2243,15 +2416,15 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 95.25 54.61 0)
+		(at 123.19 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "18b6c5a3-18ff-449c-a042-06dee285fe29")
-		(property "Reference" "SW10"
-			(at 95.25 48.26 0)
+		(uuid "160d70b8-7269-42f1-bfff-47797f7e8db3")
+		(property "Reference" "SW39"
+			(at 123.19 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2259,7 +2432,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 95.25 50.8 0)
+			(at 123.19 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2267,7 +2440,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 95.25 54.61 0)
+			(at 123.19 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2276,7 +2449,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.25 54.61 0)
+			(at 123.19 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2285,7 +2458,74 @@
 			)
 		)
 		(property "Description" ""
-			(at 95.25 54.61 0)
+			(at 123.19 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "21bc1030-178c-4a4b-a0b6-9a5f253ea3f8")
+		)
+		(pin "2"
+			(uuid "998af43a-fdad-4c2a-a7c8-1fef51b29de0")
+		)
+		(instances
+			(project "vitter-kb"
+				(path "/e96a5538-5c73-4873-8878-70663283f154"
+					(reference "SW39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPST")
+		(at 97.79 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "18b6c5a3-18ff-449c-a042-06dee285fe29")
+		(property "Reference" "SW10"
+			(at 97.79 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPST"
+			(at 97.79 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+			(at 97.79 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 97.79 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 97.79 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2310,7 +2550,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 69.85 38.1 0)
+		(at 72.39 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2318,7 +2558,7 @@
 		(dnp no)
 		(uuid "1b00d33b-aaae-40a9-b7a6-e3fec6a588e7")
 		(property "Reference" "SW2"
-			(at 69.85 31.75 0)
+			(at 72.39 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2326,7 +2566,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 69.85 34.29 0)
+			(at 72.39 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2334,7 +2574,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 69.85 38.1 0)
+			(at 72.39 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2343,7 +2583,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 69.85 38.1 0)
+			(at 72.39 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2352,7 +2592,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 38.1 0)
+			(at 72.39 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2377,15 +2617,15 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 160.02 107.95 90)
+		(at 111.76 48.26 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "1cdc4526-95c4-4673-8614-5a80eeede1cd")
-		(property "Reference" "D34"
-			(at 162.56 106.6799 90)
+		(uuid "1caa248f-aa00-48e4-8ecd-08d91b9c14e8")
+		(property "Reference" "D39"
+			(at 114.3 46.9899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2394,7 +2634,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 162.56 109.2199 90)
+			(at 114.3 49.5299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2403,7 +2643,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 130.81 105.41 0)
+			(at 82.55 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2412,7 +2652,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 160.02 107.95 0)
+			(at 111.76 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2421,7 +2661,76 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 107.95 0)
+			(at 111.76 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0d934cac-a872-4b90-be1a-08547dcbfe95")
+		)
+		(pin "2"
+			(uuid "21272f02-ab78-4d50-b6c9-9442dfff6802")
+		)
+		(instances
+			(project "vitter-kb"
+				(path "/e96a5538-5c73-4873-8878-70663283f154"
+					(reference "D39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 162.56 130.81 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1cdc4526-95c4-4673-8614-5a80eeede1cd")
+		(property "Reference" "D34"
+			(at 165.1 129.5399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 165.1 132.0799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Keebio-Parts:Diode-dual"
+			(at 133.35 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 162.56 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 162.56 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2446,15 +2755,15 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 95.25 71.12 0)
+		(at 46.99 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "1fd5049f-3542-407a-9a27-7c31fc98db3b")
-		(property "Reference" "SW17"
-			(at 95.25 64.77 0)
+		(uuid "1f52398c-881b-483b-b9aa-87ec79cc88c3")
+		(property "Reference" "SW36"
+			(at 46.99 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2462,7 +2771,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 95.25 67.31 0)
+			(at 46.99 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2470,7 +2779,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 95.25 71.12 0)
+			(at 46.99 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2479,7 +2788,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.25 71.12 0)
+			(at 46.99 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2488,7 +2797,74 @@
 			)
 		)
 		(property "Description" ""
-			(at 95.25 71.12 0)
+			(at 46.99 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3a27235f-f855-4139-b659-3b3a38ce19b8")
+		)
+		(pin "2"
+			(uuid "19b327b4-a8ef-4c1c-ada3-0afa15495196")
+		)
+		(instances
+			(project "vitter-kb"
+				(path "/e96a5538-5c73-4873-8878-70663283f154"
+					(reference "SW36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPST")
+		(at 97.79 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1fd5049f-3542-407a-9a27-7c31fc98db3b")
+		(property "Reference" "SW17"
+			(at 97.79 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPST"
+			(at 97.79 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+			(at 97.79 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 97.79 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 97.79 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2513,7 +2889,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 185.42 74.93 90)
+		(at 187.96 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2521,7 +2897,7 @@
 		(dnp no)
 		(uuid "22df5f93-010f-4606-9bed-2d15ae48ac87")
 		(property "Reference" "D21"
-			(at 187.96 73.6599 90)
+			(at 190.5 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2530,7 +2906,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 187.96 76.1999 90)
+			(at 190.5 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2539,7 +2915,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 156.21 72.39 0)
+			(at 158.75 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2548,7 +2924,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 185.42 74.93 0)
+			(at 187.96 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2557,7 +2933,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 185.42 74.93 0)
+			(at 187.96 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2582,7 +2958,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 44.45 54.61 0)
+		(at 46.99 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2590,7 +2966,7 @@
 		(dnp no)
 		(uuid "27f9636e-6542-4d71-8210-56cdf129486f")
 		(property "Reference" "SW8"
-			(at 44.45 48.26 0)
+			(at 46.99 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2598,7 +2974,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 44.45 50.8 0)
+			(at 46.99 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2606,7 +2982,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 44.45 54.61 0)
+			(at 46.99 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2615,7 +2991,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 54.61 0)
+			(at 46.99 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2624,7 +3000,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 44.45 54.61 0)
+			(at 46.99 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2648,32 +3024,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_SPST")
-		(at 69.85 87.63 0)
+		(lib_id "Diode:1N4148")
+		(at 86.36 48.26 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "333e0a7f-7a56-447c-a231-98945343eab7")
-		(property "Reference" "SW23"
-			(at 69.85 81.28 0)
+		(uuid "31208aad-c4e8-4bfe-881c-428fe815892c")
+		(property "Reference" "D38"
+			(at 88.9 46.9899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "SW_SPST"
-			(at 69.85 83.82 0)
+		(property "Value" "1N4148"
+			(at 88.9 49.5299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 69.85 87.63 0)
+		(property "Footprint" "Keebio-Parts:Diode-dual"
+			(at 57.15 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2681,8 +3059,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 69.85 87.63 0)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 86.36 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2691,7 +3069,74 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 87.63 0)
+			(at 86.36 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "711d34a1-0d8c-4c15-a118-973a87b9ac76")
+		)
+		(pin "2"
+			(uuid "fc199e67-c0f3-4ca3-9028-33d87558223b")
+		)
+		(instances
+			(project "vitter-kb"
+				(path "/e96a5538-5c73-4873-8878-70663283f154"
+					(reference "D38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPST")
+		(at 72.39 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "333e0a7f-7a56-447c-a231-98945343eab7")
+		(property "Reference" "SW23"
+			(at 72.39 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPST"
+			(at 72.39 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+			(at 72.39 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 72.39 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2716,7 +3161,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 196.85 87.63 0)
+		(at 199.39 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2724,7 +3169,7 @@
 		(dnp no)
 		(uuid "346a9834-3a8c-4dbe-ba14-a4e067189d7e")
 		(property "Reference" "SW28"
-			(at 196.85 81.28 0)
+			(at 199.39 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2732,7 +3177,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 196.85 83.82 0)
+			(at 199.39 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2740,7 +3185,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 196.85 87.63 0)
+			(at 199.39 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2749,7 +3194,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 87.63 0)
+			(at 199.39 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2758,7 +3203,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.85 87.63 0)
+			(at 199.39 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2783,7 +3228,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 171.45 38.1 0)
+		(at 173.99 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2791,7 +3236,7 @@
 		(dnp no)
 		(uuid "3c045c2c-b3bf-4016-a283-1b43bb53eea9")
 		(property "Reference" "SW6"
-			(at 171.45 31.75 0)
+			(at 173.99 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2799,7 +3244,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 171.45 34.29 0)
+			(at 173.99 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2807,7 +3252,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 171.45 38.1 0)
+			(at 173.99 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2816,7 +3261,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 38.1 0)
+			(at 173.99 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2825,7 +3270,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 38.1 0)
+			(at 173.99 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2850,7 +3295,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 120.65 71.12 0)
+		(at 123.19 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2858,7 +3303,7 @@
 		(dnp no)
 		(uuid "4126acb8-cb88-46c5-96ac-8a7a29998acb")
 		(property "Reference" "SW18"
-			(at 120.65 64.77 0)
+			(at 123.19 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2866,7 +3311,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 120.65 67.31 0)
+			(at 123.19 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2874,7 +3319,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 120.65 71.12 0)
+			(at 123.19 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2883,7 +3328,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 120.65 71.12 0)
+			(at 123.19 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2892,7 +3337,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 71.12 0)
+			(at 123.19 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2917,7 +3362,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 120.65 104.14 0)
+		(at 123.19 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2925,7 +3370,7 @@
 		(dnp no)
 		(uuid "457604fd-2431-4fa0-90e7-1ce06f017779")
 		(property "Reference" "SW32"
-			(at 120.65 97.79 0)
+			(at 123.19 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2933,7 +3378,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 120.65 100.33 0)
+			(at 123.19 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2941,7 +3386,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 120.65 104.14 0)
+			(at 123.19 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2950,7 +3395,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 120.65 104.14 0)
+			(at 123.19 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2959,7 +3404,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 104.14 0)
+			(at 123.19 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2984,7 +3429,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 33.02 74.93 90)
+		(at 35.56 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2992,7 +3437,7 @@
 		(dnp no)
 		(uuid "4f3eeabb-8501-40f5-b6a7-88ea8c6b9e18")
 		(property "Reference" "D15"
-			(at 35.56 73.6599 90)
+			(at 38.1 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3001,7 +3446,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 35.56 76.1999 90)
+			(at 38.1 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3010,7 +3455,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 3.81 72.39 0)
+			(at 6.35 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3019,7 +3464,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 33.02 74.93 0)
+			(at 35.56 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3028,7 +3473,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 33.02 74.93 0)
+			(at 35.56 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3053,7 +3498,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 44.45 87.63 0)
+		(at 46.99 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3061,7 +3506,7 @@
 		(dnp no)
 		(uuid "53b0fdfe-69ea-4a35-b058-35a472a43364")
 		(property "Reference" "SW22"
-			(at 44.45 81.28 0)
+			(at 46.99 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3069,7 +3514,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 44.45 83.82 0)
+			(at 46.99 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3077,7 +3522,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 44.45 87.63 0)
+			(at 46.99 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3086,7 +3531,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 87.63 0)
+			(at 46.99 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3095,7 +3540,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 44.45 87.63 0)
+			(at 46.99 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3120,7 +3565,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 83.82 107.95 90)
+		(at 86.36 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3128,7 +3573,7 @@
 		(dnp no)
 		(uuid "56e26ea0-9656-42f2-becc-c5b7c8a3aad3")
 		(property "Reference" "D31"
-			(at 86.36 106.6799 90)
+			(at 88.9 129.5399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3137,7 +3582,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 86.36 109.2199 90)
+			(at 88.9 132.0799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3146,7 +3591,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 54.61 105.41 0)
+			(at 57.15 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3155,7 +3600,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 83.82 107.95 0)
+			(at 86.36 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3164,7 +3609,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 107.95 0)
+			(at 86.36 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3189,7 +3634,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 146.05 104.14 0)
+		(at 148.59 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3197,7 +3642,7 @@
 		(dnp no)
 		(uuid "5a80b4b3-f848-4290-8edc-6a251cb61607")
 		(property "Reference" "SW33"
-			(at 146.05 97.79 0)
+			(at 148.59 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3205,7 +3650,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 146.05 100.33 0)
+			(at 148.59 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3213,7 +3658,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 146.05 104.14 0)
+			(at 148.59 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3222,7 +3667,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.05 104.14 0)
+			(at 148.59 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3231,7 +3676,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 104.14 0)
+			(at 148.59 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3256,7 +3701,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 83.82 91.44 90)
+		(at 86.36 114.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3264,7 +3709,7 @@
 		(dnp no)
 		(uuid "5d8194a7-6ee5-4617-a428-c528d1733052")
 		(property "Reference" "D24"
-			(at 86.36 90.1699 90)
+			(at 88.9 113.0299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3273,7 +3718,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 86.36 92.7099 90)
+			(at 88.9 115.5699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3282,7 +3727,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 54.61 88.9 0)
+			(at 57.15 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3291,7 +3736,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 83.82 91.44 0)
+			(at 86.36 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3300,7 +3745,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 91.44 0)
+			(at 86.36 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3325,7 +3770,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 44.45 38.1 0)
+		(at 46.99 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3333,7 +3778,7 @@
 		(dnp no)
 		(uuid "60c9b1ff-79e2-4921-92dc-8f2c0b35afc9")
 		(property "Reference" "SW1"
-			(at 44.45 31.75 0)
+			(at 46.99 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3341,7 +3786,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 44.45 34.29 0)
+			(at 46.99 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3349,7 +3794,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 44.45 38.1 0)
+			(at 46.99 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3358,7 +3803,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 38.1 0)
+			(at 46.99 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3367,7 +3812,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 44.45 38.1 0)
+			(at 46.99 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3392,7 +3837,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 196.85 54.61 0)
+		(at 199.39 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3400,7 +3845,7 @@
 		(dnp no)
 		(uuid "63bac5db-f13d-4be9-8b81-bc88bcf5b51b")
 		(property "Reference" "SW14"
-			(at 196.85 48.26 0)
+			(at 199.39 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3408,7 +3853,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 196.85 50.8 0)
+			(at 199.39 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3416,7 +3861,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 196.85 54.61 0)
+			(at 199.39 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3425,7 +3870,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 54.61 0)
+			(at 199.39 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3434,7 +3879,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.85 54.61 0)
+			(at 199.39 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3459,7 +3904,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 109.22 91.44 90)
+		(at 111.76 114.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3467,7 +3912,7 @@
 		(dnp no)
 		(uuid "674e9fdd-4875-4f09-815b-d5626e14b0e1")
 		(property "Reference" "D25"
-			(at 111.76 90.1699 90)
+			(at 114.3 113.0299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3476,7 +3921,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 111.76 92.7099 90)
+			(at 114.3 115.5699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3485,7 +3930,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 80.01 88.9 0)
+			(at 82.55 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3494,7 +3939,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 109.22 91.44 0)
+			(at 111.76 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3503,7 +3948,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.22 91.44 0)
+			(at 111.76 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3527,32 +3972,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_SPST")
-		(at 95.25 38.1 0)
+		(lib_id "Diode:1N4148")
+		(at 35.56 48.26 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "755b7598-eebd-4c85-be83-5cf2b7c1faeb")
-		(property "Reference" "SW3"
-			(at 95.25 31.75 0)
+		(uuid "6d026a6a-eac8-4b8b-9edd-e240359e40fe")
+		(property "Reference" "D36"
+			(at 38.1 46.9899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "SW_SPST"
-			(at 95.25 34.29 0)
+		(property "Value" "1N4148"
+			(at 38.1 49.5299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 95.25 38.1 0)
+		(property "Footprint" "Keebio-Parts:Diode-dual"
+			(at 6.35 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3560,8 +4007,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 95.25 38.1 0)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 35.56 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3570,7 +4017,74 @@
 			)
 		)
 		(property "Description" ""
-			(at 95.25 38.1 0)
+			(at 35.56 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "de5f45a3-27ab-479e-af4a-f1ba2aba6bb6")
+		)
+		(pin "2"
+			(uuid "ebabc5bf-f452-41f0-b669-36d7d1653ad6")
+		)
+		(instances
+			(project "vitter-kb"
+				(path "/e96a5538-5c73-4873-8878-70663283f154"
+					(reference "D36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPST")
+		(at 97.79 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "755b7598-eebd-4c85-be83-5cf2b7c1faeb")
+		(property "Reference" "SW3"
+			(at 97.79 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPST"
+			(at 97.79 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+			(at 97.79 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 97.79 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 97.79 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3595,7 +4109,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 44.45 71.12 0)
+		(at 46.99 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3603,7 +4117,7 @@
 		(dnp no)
 		(uuid "772e62de-fd5f-4915-a6fb-52c797d1bab2")
 		(property "Reference" "SW15"
-			(at 44.45 64.77 0)
+			(at 46.99 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3611,7 +4125,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 44.45 67.31 0)
+			(at 46.99 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3619,7 +4133,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 44.45 71.12 0)
+			(at 46.99 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3628,7 +4142,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 71.12 0)
+			(at 46.99 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3637,7 +4151,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 44.45 71.12 0)
+			(at 46.99 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3662,7 +4176,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 160.02 91.44 90)
+		(at 162.56 114.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3670,7 +4184,7 @@
 		(dnp no)
 		(uuid "78663e8f-d51d-4d81-8f72-2892c95a52f6")
 		(property "Reference" "D27"
-			(at 162.56 90.1699 90)
+			(at 165.1 113.0299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3679,7 +4193,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 162.56 92.7099 90)
+			(at 165.1 115.5699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3688,7 +4202,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 130.81 88.9 0)
+			(at 133.35 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3697,7 +4211,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 160.02 91.44 0)
+			(at 162.56 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3706,7 +4220,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 91.44 0)
+			(at 162.56 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3731,15 +4245,15 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 83.82 58.42 90)
+		(at 60.96 48.26 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "7cfc38df-5afb-4c9e-beba-898e28f7206f")
-		(property "Reference" "D10"
-			(at 86.36 57.1499 90)
+		(uuid "7bca9518-4e35-4245-97cc-e8fb2f941199")
+		(property "Reference" "D37"
+			(at 63.5 46.9899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3748,7 +4262,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 86.36 59.6899 90)
+			(at 63.5 49.5299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3757,7 +4271,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 54.61 55.88 0)
+			(at 31.75 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3766,7 +4280,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 83.82 58.42 0)
+			(at 60.96 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3775,7 +4289,76 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 58.42 0)
+			(at 60.96 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "69a53a1d-1dd8-49b1-b254-a56684582b16")
+		)
+		(pin "2"
+			(uuid "0dc2a26e-3f29-4b08-8615-8bc3a1bf2d55")
+		)
+		(instances
+			(project "vitter-kb"
+				(path "/e96a5538-5c73-4873-8878-70663283f154"
+					(reference "D37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 86.36 81.28 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7cfc38df-5afb-4c9e-beba-898e28f7206f")
+		(property "Reference" "D10"
+			(at 88.9 80.0099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 88.9 82.5499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Keebio-Parts:Diode-dual"
+			(at 57.15 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 86.36 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 86.36 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3800,7 +4383,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 185.42 41.91 90)
+		(at 187.96 64.77 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3808,7 +4391,7 @@
 		(dnp no)
 		(uuid "82f4ed21-b473-4f13-af82-c2b254c017bf")
 		(property "Reference" "D7"
-			(at 187.96 40.6399 90)
+			(at 190.5 63.4999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3817,7 +4400,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 187.96 43.1799 90)
+			(at 190.5 66.0399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3826,7 +4409,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 156.21 39.37 0)
+			(at 158.75 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3835,7 +4418,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 185.42 41.91 0)
+			(at 187.96 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3844,7 +4427,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 185.42 41.91 0)
+			(at 187.96 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3869,15 +4452,15 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 120.65 54.61 0)
+		(at 72.39 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "8b631776-7015-4745-ad45-24b61af6a48b")
-		(property "Reference" "SW11"
-			(at 120.65 48.26 0)
+		(uuid "888851c8-7efc-4e15-986f-ff69e7867e6d")
+		(property "Reference" "SW37"
+			(at 72.39 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3885,7 +4468,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 120.65 50.8 0)
+			(at 72.39 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3893,7 +4476,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 120.65 54.61 0)
+			(at 72.39 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3902,7 +4485,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 120.65 54.61 0)
+			(at 72.39 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3911,7 +4494,74 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 54.61 0)
+			(at 72.39 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "75d457c5-7257-4bf6-922b-96bfd02166c9")
+		)
+		(pin "2"
+			(uuid "f70f9d99-356d-4863-9ab6-d03e47041707")
+		)
+		(instances
+			(project "vitter-kb"
+				(path "/e96a5538-5c73-4873-8878-70663283f154"
+					(reference "SW37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPST")
+		(at 123.19 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8b631776-7015-4745-ad45-24b61af6a48b")
+		(property "Reference" "SW11"
+			(at 123.19 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPST"
+			(at 123.19 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+			(at 123.19 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 123.19 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 123.19 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3936,7 +4586,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 69.85 71.12 0)
+		(at 72.39 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3944,7 +4594,7 @@
 		(dnp no)
 		(uuid "91513d9a-82c5-49ec-a0b4-92a50df91582")
 		(property "Reference" "SW16"
-			(at 69.85 64.77 0)
+			(at 72.39 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3952,7 +4602,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 69.85 67.31 0)
+			(at 72.39 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3960,7 +4610,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 69.85 71.12 0)
+			(at 72.39 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3969,7 +4619,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 69.85 71.12 0)
+			(at 72.39 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3978,7 +4628,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 71.12 0)
+			(at 72.39 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4003,7 +4653,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 58.42 107.95 90)
+		(at 60.96 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4011,7 +4661,7 @@
 		(dnp no)
 		(uuid "95eefc9b-3ad3-4ba0-a8fe-199a96214375")
 		(property "Reference" "D30"
-			(at 60.96 106.6799 90)
+			(at 63.5 129.5399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4020,7 +4670,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 60.96 109.2199 90)
+			(at 63.5 132.0799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4029,7 +4679,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 29.21 105.41 0)
+			(at 31.75 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4038,7 +4688,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 58.42 107.95 0)
+			(at 60.96 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4047,7 +4697,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 107.95 0)
+			(at 60.96 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4072,7 +4722,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 95.25 104.14 0)
+		(at 97.79 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4080,7 +4730,7 @@
 		(dnp no)
 		(uuid "991811ae-94c6-41d5-b9a1-4764e7376511")
 		(property "Reference" "SW31"
-			(at 95.25 97.79 0)
+			(at 97.79 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4088,7 +4738,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 95.25 100.33 0)
+			(at 97.79 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4096,7 +4746,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 95.25 104.14 0)
+			(at 97.79 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4105,7 +4755,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.25 104.14 0)
+			(at 97.79 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4114,7 +4764,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 95.25 104.14 0)
+			(at 97.79 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4139,7 +4789,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 120.65 87.63 0)
+		(at 123.19 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4147,7 +4797,7 @@
 		(dnp no)
 		(uuid "9a3ff13a-d351-42f4-b170-288a5ad35334")
 		(property "Reference" "SW25"
-			(at 120.65 81.28 0)
+			(at 123.19 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4155,7 +4805,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 120.65 83.82 0)
+			(at 123.19 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4163,7 +4813,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 120.65 87.63 0)
+			(at 123.19 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4172,7 +4822,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 120.65 87.63 0)
+			(at 123.19 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4181,7 +4831,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 87.63 0)
+			(at 123.19 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4206,7 +4856,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 58.42 58.42 90)
+		(at 60.96 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4214,7 +4864,7 @@
 		(dnp no)
 		(uuid "9e498df6-5886-43fc-aa11-f73de6313cd0")
 		(property "Reference" "D9"
-			(at 60.96 57.1499 90)
+			(at 63.5 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4223,7 +4873,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 60.96 59.6899 90)
+			(at 63.5 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4232,7 +4882,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 29.21 55.88 0)
+			(at 31.75 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4241,7 +4891,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 58.42 58.42 0)
+			(at 60.96 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4250,7 +4900,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 58.42 0)
+			(at 60.96 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4275,7 +4925,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 146.05 87.63 0)
+		(at 148.59 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4283,7 +4933,7 @@
 		(dnp no)
 		(uuid "a0fae4e2-98e4-46e1-9da3-681e47b46e52")
 		(property "Reference" "SW26"
-			(at 146.05 81.28 0)
+			(at 148.59 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4291,7 +4941,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 146.05 83.82 0)
+			(at 148.59 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4299,7 +4949,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 146.05 87.63 0)
+			(at 148.59 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4308,7 +4958,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.05 87.63 0)
+			(at 148.59 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4317,7 +4967,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 87.63 0)
+			(at 148.59 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4342,7 +4992,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 185.42 58.42 90)
+		(at 187.96 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4350,7 +5000,7 @@
 		(dnp no)
 		(uuid "a698fd47-fea9-4665-b38d-4e00647b24f0")
 		(property "Reference" "D14"
-			(at 187.96 57.1499 90)
+			(at 190.5 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4359,7 +5009,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 187.96 59.6899 90)
+			(at 190.5 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4368,7 +5018,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 156.21 55.88 0)
+			(at 158.75 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4377,7 +5027,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 185.42 58.42 0)
+			(at 187.96 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4386,7 +5036,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 185.42 58.42 0)
+			(at 187.96 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4411,7 +5061,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 33.02 58.42 90)
+		(at 35.56 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4419,7 +5069,7 @@
 		(dnp no)
 		(uuid "a8d59ca2-9f8b-48ff-837e-9e16871a29e3")
 		(property "Reference" "D8"
-			(at 35.56 57.1499 90)
+			(at 38.1 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4428,7 +5078,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 35.56 59.6899 90)
+			(at 38.1 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4437,7 +5087,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 3.81 55.88 0)
+			(at 6.35 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4446,7 +5096,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 33.02 58.42 0)
+			(at 35.56 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4455,7 +5105,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 33.02 58.42 0)
+			(at 35.56 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4480,7 +5130,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 134.62 41.91 90)
+		(at 137.16 64.77 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4488,7 +5138,7 @@
 		(dnp no)
 		(uuid "ab4290b7-bbba-409a-a87e-6d480ebb9cf5")
 		(property "Reference" "D5"
-			(at 137.16 40.6399 90)
+			(at 139.7 63.4999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4497,7 +5147,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 137.16 43.1799 90)
+			(at 139.7 66.0399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4506,7 +5156,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 105.41 39.37 0)
+			(at 107.95 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4515,7 +5165,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 134.62 41.91 0)
+			(at 137.16 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4524,7 +5174,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 134.62 41.91 0)
+			(at 137.16 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4549,7 +5199,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 83.82 74.93 90)
+		(at 86.36 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4557,7 +5207,7 @@
 		(dnp no)
 		(uuid "ab8ef991-689c-48c3-a372-7af25ad8220a")
 		(property "Reference" "D17"
-			(at 86.36 73.6599 90)
+			(at 88.9 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4566,7 +5216,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 86.36 76.1999 90)
+			(at 88.9 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4575,7 +5225,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 54.61 72.39 0)
+			(at 57.15 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4584,7 +5234,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 83.82 74.93 0)
+			(at 86.36 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4593,7 +5243,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 74.93 0)
+			(at 86.36 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4618,7 +5268,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 58.42 91.44 90)
+		(at 60.96 114.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4626,7 +5276,7 @@
 		(dnp no)
 		(uuid "b310b9d6-d5c4-4c88-abf1-27e9a52c1620")
 		(property "Reference" "D23"
-			(at 60.96 90.1699 90)
+			(at 63.5 113.0299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4635,7 +5285,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 60.96 92.7099 90)
+			(at 63.5 115.5699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4644,7 +5294,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 29.21 88.9 0)
+			(at 31.75 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4653,7 +5303,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 58.42 91.44 0)
+			(at 60.96 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4662,7 +5312,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 91.44 0)
+			(at 60.96 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4687,7 +5337,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 44.45 104.14 0)
+		(at 46.99 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4695,7 +5345,7 @@
 		(dnp no)
 		(uuid "b55850e1-65d4-4c1d-a465-191a13f66920")
 		(property "Reference" "SW29"
-			(at 44.45 97.79 0)
+			(at 46.99 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4703,7 +5353,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 44.45 100.33 0)
+			(at 46.99 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4711,7 +5361,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 44.45 104.14 0)
+			(at 46.99 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4720,7 +5370,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 104.14 0)
+			(at 46.99 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4729,7 +5379,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 44.45 104.14 0)
+			(at 46.99 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4754,7 +5404,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 171.45 87.63 0)
+		(at 173.99 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4762,7 +5412,7 @@
 		(dnp no)
 		(uuid "b8c4c9de-19ab-45b2-8780-6db1c040f880")
 		(property "Reference" "SW27"
-			(at 171.45 81.28 0)
+			(at 173.99 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4770,7 +5420,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 171.45 83.82 0)
+			(at 173.99 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4778,7 +5428,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 171.45 87.63 0)
+			(at 173.99 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4787,7 +5437,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 87.63 0)
+			(at 173.99 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4796,7 +5446,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 87.63 0)
+			(at 173.99 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4821,7 +5471,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 185.42 107.95 90)
+		(at 187.96 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4829,7 +5479,7 @@
 		(dnp no)
 		(uuid "b9002e5d-d18a-45a6-9a18-764edab80e8c")
 		(property "Reference" "D35"
-			(at 187.96 106.6799 90)
+			(at 190.5 129.5399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4838,7 +5488,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 187.96 109.2199 90)
+			(at 190.5 132.0799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4847,7 +5497,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 156.21 105.41 0)
+			(at 158.75 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4856,7 +5506,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 185.42 107.95 0)
+			(at 187.96 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4865,7 +5515,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 185.42 107.95 0)
+			(at 187.96 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4890,7 +5540,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 83.82 41.91 90)
+		(at 86.36 64.77 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4898,7 +5548,7 @@
 		(dnp no)
 		(uuid "ba4ee951-363e-4649-9428-509b1a404be7")
 		(property "Reference" "D3"
-			(at 86.36 40.6399 90)
+			(at 88.9 63.4999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4907,7 +5557,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 86.36 43.1799 90)
+			(at 88.9 66.0399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4916,7 +5566,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 54.61 39.37 0)
+			(at 57.15 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4925,7 +5575,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 83.82 41.91 0)
+			(at 86.36 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4934,7 +5584,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 41.91 0)
+			(at 86.36 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4959,7 +5609,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 69.85 104.14 0)
+		(at 72.39 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4967,7 +5617,7 @@
 		(dnp no)
 		(uuid "bd38ae01-ebaf-4177-97cc-24e9e6dd565b")
 		(property "Reference" "SW30"
-			(at 69.85 97.79 0)
+			(at 72.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4975,7 +5625,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 69.85 100.33 0)
+			(at 72.39 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4983,7 +5633,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 69.85 104.14 0)
+			(at 72.39 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4992,7 +5642,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 69.85 104.14 0)
+			(at 72.39 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5001,7 +5651,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 104.14 0)
+			(at 72.39 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5026,7 +5676,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 109.22 41.91 90)
+		(at 111.76 64.77 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5034,7 +5684,7 @@
 		(dnp no)
 		(uuid "bf4c1431-3c8b-4313-aacb-da3b78f301d2")
 		(property "Reference" "D4"
-			(at 111.76 40.6399 90)
+			(at 114.3 63.4999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5043,7 +5693,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 111.76 43.1799 90)
+			(at 114.3 66.0399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5052,7 +5702,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 80.01 39.37 0)
+			(at 82.55 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5061,7 +5711,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 109.22 41.91 0)
+			(at 111.76 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5070,7 +5720,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.22 41.91 0)
+			(at 111.76 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5095,7 +5745,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 160.02 74.93 90)
+		(at 162.56 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5103,7 +5753,7 @@
 		(dnp no)
 		(uuid "c0549c4c-841e-4cb3-8ae5-b47608be8017")
 		(property "Reference" "D20"
-			(at 162.56 73.6599 90)
+			(at 165.1 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5112,7 +5762,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 162.56 76.1999 90)
+			(at 165.1 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5121,7 +5771,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 130.81 72.39 0)
+			(at 133.35 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5130,7 +5780,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 160.02 74.93 0)
+			(at 162.56 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5139,7 +5789,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 74.93 0)
+			(at 162.56 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5164,7 +5814,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 196.85 104.14 0)
+		(at 199.39 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5172,7 +5822,7 @@
 		(dnp no)
 		(uuid "c487bf71-7f0b-45a9-a0a5-8125282902eb")
 		(property "Reference" "SW35"
-			(at 196.85 97.79 0)
+			(at 199.39 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5180,7 +5830,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 196.85 100.33 0)
+			(at 199.39 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5188,7 +5838,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 196.85 104.14 0)
+			(at 199.39 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5197,7 +5847,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 104.14 0)
+			(at 199.39 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5206,7 +5856,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.85 104.14 0)
+			(at 199.39 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5231,7 +5881,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 33.02 107.95 90)
+		(at 35.56 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5239,7 +5889,7 @@
 		(dnp no)
 		(uuid "ce820947-4af6-4a79-840d-928263b5ed22")
 		(property "Reference" "D29"
-			(at 35.56 106.6799 90)
+			(at 38.1 129.5399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5248,7 +5898,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 35.56 109.2199 90)
+			(at 38.1 132.0799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5257,7 +5907,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 3.81 105.41 0)
+			(at 6.35 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5266,7 +5916,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 33.02 107.95 0)
+			(at 35.56 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5275,7 +5925,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 33.02 107.95 0)
+			(at 35.56 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5300,7 +5950,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 146.05 38.1 0)
+		(at 148.59 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5308,7 +5958,7 @@
 		(dnp no)
 		(uuid "ceb1c51c-2c83-4784-a308-f71826ee5b03")
 		(property "Reference" "SW5"
-			(at 146.05 31.75 0)
+			(at 148.59 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5316,7 +5966,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 146.05 34.29 0)
+			(at 148.59 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5324,7 +5974,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 146.05 38.1 0)
+			(at 148.59 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5333,7 +5983,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.05 38.1 0)
+			(at 148.59 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5342,7 +5992,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 38.1 0)
+			(at 148.59 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5367,7 +6017,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 171.45 71.12 0)
+		(at 173.99 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5375,7 +6025,7 @@
 		(dnp no)
 		(uuid "cfe119f0-6ff2-4fe6-b4c9-3d742c2ce6a3")
 		(property "Reference" "SW20"
-			(at 171.45 64.77 0)
+			(at 173.99 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5383,7 +6033,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 171.45 67.31 0)
+			(at 173.99 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5391,7 +6041,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 171.45 71.12 0)
+			(at 173.99 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5400,7 +6050,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 71.12 0)
+			(at 173.99 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5409,7 +6059,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 71.12 0)
+			(at 173.99 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5434,7 +6084,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 185.42 91.44 90)
+		(at 187.96 114.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5442,7 +6092,7 @@
 		(dnp no)
 		(uuid "d201f796-68e6-4d09-9ff6-bc177af16270")
 		(property "Reference" "D28"
-			(at 187.96 90.1699 90)
+			(at 190.5 113.0299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5451,7 +6101,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 187.96 92.7099 90)
+			(at 190.5 115.5699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5460,7 +6110,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 156.21 88.9 0)
+			(at 158.75 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5469,7 +6119,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 185.42 91.44 0)
+			(at 187.96 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5478,7 +6128,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 185.42 91.44 0)
+			(at 187.96 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5503,7 +6153,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 69.85 54.61 0)
+		(at 72.39 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5511,7 +6161,7 @@
 		(dnp no)
 		(uuid "d3ee6bb9-6424-4f3f-a475-8f3756d059d6")
 		(property "Reference" "SW9"
-			(at 69.85 48.26 0)
+			(at 72.39 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5519,7 +6169,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 69.85 50.8 0)
+			(at 72.39 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5527,7 +6177,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 69.85 54.61 0)
+			(at 72.39 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5536,7 +6186,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 69.85 54.61 0)
+			(at 72.39 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5545,7 +6195,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 69.85 54.61 0)
+			(at 72.39 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5570,7 +6220,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 33.02 41.91 90)
+		(at 35.56 64.77 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5578,7 +6228,7 @@
 		(dnp no)
 		(uuid "d59baf95-88f2-4034-a63e-624e3f0c4681")
 		(property "Reference" "D1"
-			(at 35.56 40.6399 90)
+			(at 38.1 63.4999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5587,7 +6237,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 35.56 43.1799 90)
+			(at 38.1 66.0399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5596,7 +6246,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 3.81 39.37 0)
+			(at 6.35 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5605,7 +6255,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 33.02 41.91 0)
+			(at 35.56 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5614,7 +6264,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 33.02 41.91 0)
+			(at 35.56 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5639,7 +6289,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 58.42 74.93 90)
+		(at 60.96 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5647,7 +6297,7 @@
 		(dnp no)
 		(uuid "dcf386c2-87c5-450d-95c1-b9e4e105d429")
 		(property "Reference" "D16"
-			(at 60.96 73.6599 90)
+			(at 63.5 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5656,7 +6306,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 60.96 76.1999 90)
+			(at 63.5 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5665,7 +6315,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 29.21 72.39 0)
+			(at 31.75 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5674,7 +6324,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 58.42 74.93 0)
+			(at 60.96 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5683,7 +6333,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 74.93 0)
+			(at 60.96 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5708,7 +6358,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 160.02 41.91 90)
+		(at 162.56 64.77 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5716,7 +6366,7 @@
 		(dnp no)
 		(uuid "de8dd213-9e9d-4462-994c-bbb00af1eeef")
 		(property "Reference" "D6"
-			(at 162.56 40.6399 90)
+			(at 165.1 63.4999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5725,7 +6375,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 162.56 43.1799 90)
+			(at 165.1 66.0399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5734,7 +6384,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 130.81 39.37 0)
+			(at 133.35 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5743,7 +6393,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 160.02 41.91 0)
+			(at 162.56 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5752,7 +6402,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 41.91 0)
+			(at 162.56 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5777,7 +6427,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 120.65 38.1 0)
+		(at 123.19 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5785,7 +6435,7 @@
 		(dnp no)
 		(uuid "df1a7906-2d7d-4dfb-b556-04694e268d58")
 		(property "Reference" "SW4"
-			(at 120.65 31.75 0)
+			(at 123.19 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5793,7 +6443,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 120.65 34.29 0)
+			(at 123.19 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5801,7 +6451,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 120.65 38.1 0)
+			(at 123.19 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5810,7 +6460,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 120.65 38.1 0)
+			(at 123.19 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5819,7 +6469,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 120.65 38.1 0)
+			(at 123.19 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5844,7 +6494,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 109.22 107.95 90)
+		(at 111.76 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5852,7 +6502,7 @@
 		(dnp no)
 		(uuid "e020c27f-df5d-4217-b6c0-1f2a9a1f2e76")
 		(property "Reference" "D32"
-			(at 111.76 106.6799 90)
+			(at 114.3 129.5399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5861,7 +6511,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 111.76 109.2199 90)
+			(at 114.3 132.0799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5870,7 +6520,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 80.01 105.41 0)
+			(at 82.55 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5879,7 +6529,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 109.22 107.95 0)
+			(at 111.76 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5888,7 +6538,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.22 107.95 0)
+			(at 111.76 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5913,7 +6563,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 134.62 91.44 90)
+		(at 137.16 114.3 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5921,7 +6571,7 @@
 		(dnp no)
 		(uuid "e1878409-42a7-46b3-ac18-dcaf4b965bad")
 		(property "Reference" "D26"
-			(at 137.16 90.1699 90)
+			(at 139.7 113.0299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5930,7 +6580,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 137.16 92.7099 90)
+			(at 139.7 115.5699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5939,7 +6589,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 105.41 88.9 0)
+			(at 107.95 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5948,7 +6598,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 134.62 91.44 0)
+			(at 137.16 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5957,7 +6607,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 134.62 91.44 0)
+			(at 137.16 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5982,7 +6632,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 146.05 71.12 0)
+		(at 148.59 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5990,7 +6640,7 @@
 		(dnp no)
 		(uuid "e4aaa766-088f-48c0-a4c7-d72e2ad8fd94")
 		(property "Reference" "SW19"
-			(at 146.05 64.77 0)
+			(at 148.59 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5998,7 +6648,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 146.05 67.31 0)
+			(at 148.59 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6006,7 +6656,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 146.05 71.12 0)
+			(at 148.59 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6015,7 +6665,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.05 71.12 0)
+			(at 148.59 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6024,7 +6674,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 71.12 0)
+			(at 148.59 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6049,7 +6699,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 134.62 74.93 90)
+		(at 137.16 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6057,7 +6707,7 @@
 		(dnp no)
 		(uuid "ea03c7df-3ba9-4709-8b19-85c85ecb803d")
 		(property "Reference" "D19"
-			(at 137.16 73.6599 90)
+			(at 139.7 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6066,7 +6716,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 137.16 76.1999 90)
+			(at 139.7 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6075,7 +6725,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 105.41 72.39 0)
+			(at 107.95 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6084,7 +6734,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 134.62 74.93 0)
+			(at 137.16 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6093,7 +6743,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 134.62 74.93 0)
+			(at 137.16 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6118,7 +6768,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 171.45 54.61 0)
+		(at 173.99 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6126,7 +6776,7 @@
 		(dnp no)
 		(uuid "ed74a29a-4d52-4f1d-9a8b-a6b1fd2fb3f8")
 		(property "Reference" "SW13"
-			(at 171.45 48.26 0)
+			(at 173.99 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6134,7 +6784,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 171.45 50.8 0)
+			(at 173.99 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6142,7 +6792,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 171.45 54.61 0)
+			(at 173.99 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6151,7 +6801,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 54.61 0)
+			(at 173.99 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6160,7 +6810,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 171.45 54.61 0)
+			(at 173.99 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6185,7 +6835,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 146.05 54.61 0)
+		(at 148.59 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6193,7 +6843,7 @@
 		(dnp no)
 		(uuid "ef7c0958-28a6-4d19-9dd2-4c22c80256ba")
 		(property "Reference" "SW12"
-			(at 146.05 48.26 0)
+			(at 148.59 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6201,7 +6851,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 146.05 50.8 0)
+			(at 148.59 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6209,7 +6859,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 146.05 54.61 0)
+			(at 148.59 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6218,7 +6868,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.05 54.61 0)
+			(at 148.59 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6227,7 +6877,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 146.05 54.61 0)
+			(at 148.59 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6252,7 +6902,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 109.22 74.93 90)
+		(at 111.76 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6260,7 +6910,7 @@
 		(dnp no)
 		(uuid "ef90c225-e861-4c7f-91ef-2e1a96229e68")
 		(property "Reference" "D18"
-			(at 111.76 73.6599 90)
+			(at 114.3 96.5199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6269,7 +6919,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 111.76 76.1999 90)
+			(at 114.3 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6278,7 +6928,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 80.01 72.39 0)
+			(at 82.55 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6287,7 +6937,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 109.22 74.93 0)
+			(at 111.76 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6296,7 +6946,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 109.22 74.93 0)
+			(at 111.76 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6321,7 +6971,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 196.85 71.12 0)
+		(at 199.39 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6329,7 +6979,7 @@
 		(dnp no)
 		(uuid "efbf7589-7eb0-4b0b-a121-3a05b140c222")
 		(property "Reference" "SW21"
-			(at 196.85 64.77 0)
+			(at 199.39 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6337,7 +6987,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 196.85 67.31 0)
+			(at 199.39 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6345,7 +6995,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 196.85 71.12 0)
+			(at 199.39 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6354,7 +7004,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 71.12 0)
+			(at 199.39 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6363,7 +7013,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.85 71.12 0)
+			(at 199.39 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6387,34 +7037,32 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
-		(at 58.42 41.91 90)
+		(lib_id "Switch:SW_SPST")
+		(at 97.79 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "f713a623-34c1-4bb9-bfd4-a93a9a08f893")
-		(property "Reference" "D2"
-			(at 60.96 40.6399 90)
+		(uuid "f32d7c04-3770-46a7-b9ef-89a7b1366e34")
+		(property "Reference" "SW38"
+			(at 97.79 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "1N4148"
-			(at 60.96 43.1799 90)
+		(property "Value" "SW_SPST"
+			(at 97.79 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 29.21 39.37 0)
+		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+			(at 97.79 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6422,8 +7070,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 58.42 41.91 0)
+		(property "Datasheet" "~"
+			(at 97.79 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6432,7 +7080,76 @@
 			)
 		)
 		(property "Description" ""
-			(at 58.42 41.91 0)
+			(at 97.79 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b84164f3-cdc6-4fb8-993a-01aeb5beb39d")
+		)
+		(pin "2"
+			(uuid "9e6ebd5a-5d2b-4ed7-8056-b08d5ca47ffd")
+		)
+		(instances
+			(project "vitter-kb"
+				(path "/e96a5538-5c73-4873-8878-70663283f154"
+					(reference "SW38")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 60.96 64.77 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f713a623-34c1-4bb9-bfd4-a93a9a08f893")
+		(property "Reference" "D2"
+			(at 63.5 63.4999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 63.5 66.0399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Keebio-Parts:Diode-dual"
+			(at 31.75 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 60.96 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 60.96 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6457,7 +7174,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 160.02 58.42 90)
+		(at 162.56 81.28 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6465,7 +7182,7 @@
 		(dnp no)
 		(uuid "f876879b-18ed-4476-ba2d-bc7817d91ec4")
 		(property "Reference" "D13"
-			(at 162.56 57.1499 90)
+			(at 165.1 80.0099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6474,7 +7191,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 162.56 59.6899 90)
+			(at 165.1 82.5499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6483,7 +7200,7 @@
 			)
 		)
 		(property "Footprint" "Keebio-Parts:Diode-dual"
-			(at 130.81 55.88 0)
+			(at 133.35 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6492,7 +7209,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 160.02 58.42 0)
+			(at 162.56 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6501,7 +7218,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 58.42 0)
+			(at 162.56 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6526,7 +7243,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPST")
-		(at 95.25 87.63 0)
+		(at 97.79 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6534,7 +7251,7 @@
 		(dnp no)
 		(uuid "fac564d2-217c-421a-a5b4-c191de6ab31f")
 		(property "Reference" "SW24"
-			(at 95.25 81.28 0)
+			(at 97.79 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6542,7 +7259,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 95.25 83.82 0)
+			(at 97.79 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6550,7 +7267,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
-			(at 95.25 87.63 0)
+			(at 97.79 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6559,7 +7276,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 95.25 87.63 0)
+			(at 97.79 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6568,7 +7285,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 95.25 87.63 0)
+			(at 97.79 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
