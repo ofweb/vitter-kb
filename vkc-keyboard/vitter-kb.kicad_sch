@@ -167,88 +167,6 @@
 				)
 			)
 		)
-		(symbol "Mechanical:MountingHole"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "H"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "MountingHole"
-				(at 0 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Mounting Hole without connection"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "mounting hole"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "MountingHole*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "MountingHole_0_1"
-				(circle
-					(center 0 0)
-					(radius 1.27)
-					(stroke
-						(width 1.27)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-		)
 		(symbol "Switch:SW_SPST"
 			(pin_names
 				(offset 0) hide)
@@ -1338,6 +1256,12 @@
 		(uuid "0acbc27b-841a-4c5e-b5c9-7c71455cf2eb")
 	)
 	(junction
+		(at 204.47 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "105406f1-7591-499a-9907-90c9fc5b8f1a")
+	)
+	(junction
 		(at 86.36 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1500,12 +1424,6 @@
 		(uuid "83086bc0-b933-4169-9687-166ac0b42f77")
 	)
 	(junction
-		(at 60.96 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "846f953b-9626-4e01-9b57-fb5189e31330")
-	)
-	(junction
 		(at 162.56 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1540,6 +1458,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "992f0e75-76cd-4432-b11c-8c1ce0ab18dc")
+	)
+	(junction
+		(at 60.96 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9acd8581-795e-4e92-911e-66d1466ba35e")
 	)
 	(junction
 		(at 86.36 134.62)
@@ -1618,6 +1542,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d212e282-079e-417a-a16b-461309e73c29")
+	)
+	(junction
+		(at 111.76 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3161313-3e8d-495e-a0fb-2a3ba6887860")
 	)
 	(junction
 		(at 111.76 68.58)
@@ -2051,16 +1981,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 68.58) (xy 86.36 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3caabc45-663a-4547-9c63-3d0f06a7801f")
-	)
-	(wire
-		(pts
 			(xy 128.27 93.98) (xy 128.27 110.49)
 		)
 		(stroke
@@ -2141,7 +2061,7 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 48.26) (xy 204.47 60.96)
+			(xy 204.47 25.4) (xy 204.47 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2261,6 +2181,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 44.45) (xy 194.31 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67fd502b-048c-4446-8103-c6a4d1ec832d")
+	)
+	(wire
+		(pts
 			(xy 111.76 44.45) (xy 118.11 44.45)
 		)
 		(stroke
@@ -2368,6 +2298,16 @@
 			(type default)
 		)
 		(uuid "75a230e0-c468-409a-98c3-0683f284a541")
+	)
+	(wire
+		(pts
+			(xy 187.96 52.07) (xy 111.76 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76532b3a-c5a3-4f6b-9d67-ea6e278f6514")
 	)
 	(wire
 		(pts
@@ -2521,7 +2461,17 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 48.26) (xy 179.07 60.96)
+			(xy 204.47 44.45) (xy 204.47 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d51e75d-d0dd-4b31-b630-0511dc55063c")
+	)
+	(wire
+		(pts
+			(xy 179.07 25.4) (xy 179.07 60.96)
 		)
 		(stroke
 			(width 0)
@@ -2791,6 +2741,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 68.58) (xy 86.36 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b505b1de-32dc-4e28-b9c0-9bd507bda2f8")
+	)
+	(wire
+		(pts
 			(xy 128.27 25.4) (xy 128.27 44.45)
 		)
 		(stroke
@@ -2841,7 +2801,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 48.26) (xy 153.67 60.96)
+			(xy 153.67 25.4) (xy 153.67 60.96)
 		)
 		(stroke
 			(width 0)
@@ -3238,7 +3198,7 @@
 		(uuid "44d3bce2-4ee7-4f32-a164-a31ed24ccffa")
 	)
 	(label "col6"
-		(at 179.07 48.26 270)
+		(at 179.07 25.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3326,7 +3286,7 @@
 		(uuid "870b5ea0-8597-4665-8b3c-12707d67c20b")
 	)
 	(label "col7"
-		(at 204.47 48.26 270)
+		(at 204.47 25.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3425,7 +3385,7 @@
 		(uuid "db44534f-b979-4b93-9be5-bd318766066a")
 	)
 	(label "col5"
-		(at 153.67 48.26 270)
+		(at 153.67 25.4 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3916,6 +3876,73 @@
 			(project "vitter-kb"
 				(path "/e96a5538-5c73-4873-8878-70663283f154"
 					(reference "D22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_SPST")
+		(at 199.39 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0da7ccf2-ade7-4fea-a331-89c89161cdcd")
+		(property "Reference" "SW40"
+			(at 199.39 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_SPST"
+			(at 199.39 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "vitter-kb:Kailh_socket_PG1350_reversible"
+			(at 199.39 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 199.39 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 199.39 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "91a9f7ac-b298-497b-83a7-72d767020d59")
+		)
+		(pin "2"
+			(uuid "a220aaa7-3631-4aa7-b84c-ee6de18f896d")
+		)
+		(instances
+			(project "vitter-kb"
+				(path "/e96a5538-5c73-4873-8878-70663283f154"
+					(reference "SW40")
 					(unit 1)
 				)
 			)
@@ -5003,70 +5030,6 @@
 			(project "vitter-kb"
 				(path "/e96a5538-5c73-4873-8878-70663283f154"
 					(reference "SW28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 41.021 175.133 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "39aaf9d3-ed26-4d13-9206-533de83a825b")
-		(property "Reference" "H2"
-			(at 43.561 174.498 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 43.561 177.038 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 41.021 175.133 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.021 175.133 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 41.021 175.133 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "vitter-kb"
-				(path "/e96a5538-5c73-4873-8878-70663283f154"
-					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -6429,70 +6392,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 41.021 167.513 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "84c05216-e980-4169-ae6b-40c2fbd10153")
-		(property "Reference" "H1"
-			(at 43.561 166.878 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "MountingHole"
-			(at 43.561 169.418 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 41.021 167.513 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 41.021 167.513 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 41.021 167.513 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "vitter-kb"
-				(path "/e96a5538-5c73-4873-8878-70663283f154"
-					(reference "H1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_SPST")
 		(at 72.39 44.45 0)
 		(unit 1)
@@ -7093,6 +6992,75 @@
 			(project "vitter-kb"
 				(path "/e96a5538-5c73-4873-8878-70663283f154"
 					(reference "SW26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N4148")
+		(at 187.96 48.26 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a3b9b9a3-9cae-46fc-94c9-0594e4ac8eec")
+		(property "Reference" "D40"
+			(at 190.5 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1N4148"
+			(at 190.5 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "vitter-kb:Diode-SOD-123-FB"
+			(at 158.75 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+			(at 187.96 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 187.96 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a2b27e32-bad1-4e2d-870a-4cad13d52396")
+		)
+		(pin "2"
+			(uuid "651b1d8a-0d28-4457-a90a-9eac6fa98fa4")
+		)
+		(instances
+			(project "vitter-kb"
+				(path "/e96a5538-5c73-4873-8878-70663283f154"
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -9423,7 +9391,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 60.96 64.77 270)
+		(at 60.96 64.77 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9431,7 +9399,7 @@
 		(dnp no)
 		(uuid "f713a623-34c1-4bb9-bfd4-a93a9a08f893")
 		(property "Reference" "D2"
-			(at 58.42 66.0401 90)
+			(at 63.5 63.4999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9440,7 +9408,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 58.42 63.5001 90)
+			(at 63.5 66.0399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9449,7 +9417,7 @@
 			)
 		)
 		(property "Footprint" "vitter-kb:Diode-SOD-123-FB"
-			(at 90.17 67.31 0)
+			(at 31.75 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
